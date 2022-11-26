@@ -1,0 +1,30 @@
+{
+    "message": "success",
+    "stations": [
+        {
+            "_id": "6034129f8f2bb86af91e212b",
+            "placeId": "b7a3bd0e45fc6e12906f07c0fd58b31728188efc2d0425b667ea356f762f7180",
+            "CO": 0.285,
+            "NO2": 4.699,
+            "OZONE": 31.967,
+            "PM10": 116.314,
+            "PM25": 42.461,
+            "SO2": 1.113,
+            "city": "",
+            "countryCode": "IN",
+            "division": "Uttarkashi",
+            "lat": 30.726831,
+            "lng": 78.435404,
+            "placeName": "Uttarkashi",
+            "postalCode": "249193",
+            "state": "Uttarakhand",
+            "updatedAt": "2022-05-26 08:00:00",
+            "AQI": 118,
+            "aqiInfo": {
+                "pollutant": "PM2.5",
+                "concentration": 42.461,
+                "category": "Unhealthy for Sensitive Groups"
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "message": "success",
+    "stations": [
+        {
+            "_id": "603412908f2bb86af91c65df",
+            "placeId": "df377694fb4a980c0ffc46607b18d8a6c58ef3bb0d50455d1cd177cbc111a774",
+            "CO": 0.59,
+            "NO2": 7.914,
+            "OZONE": 59.691,
+            "PM10": 141.359,
+            "PM25": 37.499,
+            "SO2": 5.961,
+            "city": "Nagpur",
+            "countryCode": "IN",
+            "division": "Wardha",
+            "lat": 20.740969,
+            "lng": 78.596704,
+            "placeName": "Indira Market-Wardha",
+            "postalCode": "442001",
+            "state": "Maharashtra",
+            "updatedAt": "2022-05-26 08:00:00",
+            "AQI": 106,
+            "aqiInfo": {
+                "pollutant": "PM2.5",
+                "concentration": 37.499,
+                "category": "Unhealthy for Sensitive Groups"
+            }
+        }
+    ]
+}

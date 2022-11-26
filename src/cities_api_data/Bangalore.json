@@ -1,0 +1,30 @@
+{
+    "message": "success",
+    "stations": [
+        {
+            "_id": "603412908f2bb86af91c74ba",
+            "placeId": "16f7174726491fd96801fb8cea1d11bda8708c0b5aa2e24f7bac8dc705bc955b",
+            "CO": 0.805,
+            "NO2": 10.405,
+            "OZONE": 13.671,
+            "PM10": 85.06,
+            "PM25": 32.785,
+            "SO2": 3.915,
+            "city": "Bangalore",
+            "countryCode": "IN",
+            "division": "Bangalore",
+            "lat": 12.9677,
+            "lng": 77.592101,
+            "placeName": "Sampangiramnagar",
+            "postalCode": "560027",
+            "state": "Karnataka",
+            "updatedAt": "2022-05-26 08:00:00",
+            "AQI": 95,
+            "aqiInfo": {
+                "pollutant": "PM2.5",
+                "concentration": 32.785,
+                "category": "Moderate"
+            }
+        }
+    ]
+}

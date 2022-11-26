@@ -1,0 +1,30 @@
+{
+    "message": "success",
+    "stations": [
+        {
+            "_id": "603412928f2bb86af91ca1f3",
+            "placeId": "ffe1b6d5112da26c5c4588e247c10e180c6219778f3f87298e0cdc13e6b5155a",
+            "CO": 0.274,
+            "NO2": 4.014,
+            "OZONE": 8.263,
+            "PM10": 76.563,
+            "PM25": 28.374,
+            "SO2": 16.35,
+            "city": "",
+            "countryCode": "IN",
+            "division": "Zunheboto",
+            "lat": 26.009283,
+            "lng": 94.523771,
+            "placeName": "Zunheboto",
+            "postalCode": "798620",
+            "state": "Nagaland",
+            "updatedAt": "2022-05-26 08:00:00",
+            "AQI": 85,
+            "aqiInfo": {
+                "pollutant": "PM2.5",
+                "concentration": 28.374,
+                "category": "Moderate"
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "message": "success",
+    "stations": [
+        {
+            "_id": "6034129e8f2bb86af91df9d0",
+            "placeId": "b5cb10115647e0b0e52a89e01a6c2277cd39d813b41f3a89bad0c460417ef502",
+            "CO": 0.301,
+            "NO2": 5.847,
+            "OZONE": 46.107,
+            "PM10": 131.633,
+            "PM25": 62.796,
+            "SO2": 0.252,
+            "city": "Agra",
+            "countryCode": "IN",
+            "division": "Agra",
+            "lat": 27.177059999999997,
+            "lng": 78.016336,
+            "placeName": "Agra Fort",
+            "postalCode": "282003",
+            "state": "Uttar Pradesh",
+            "updatedAt": "2022-05-26 08:00:00",
+            "AQI": 155,
+            "aqiInfo": {
+                "pollutant": "PM2.5",
+                "concentration": 62.796,
+                "category": "Unhealthy"
+            }
+        }
+    ]
+}

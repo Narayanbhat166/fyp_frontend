@@ -1,0 +1,30 @@
+{
+    "message": "success",
+    "stations": [
+        {
+            "_id": "6034128e8f2bb86af91c359c",
+            "placeId": "53e413ee336a04fb6a1ed9a9e3b5017968a2da4d766035f598287be5dc9e7880",
+            "CO": 0.112,
+            "NO2": 5.4,
+            "OZONE": 34.288,
+            "PM10": 76.28,
+            "PM25": 20.96,
+            "SO2": 3.273,
+            "city": "Konkan",
+            "countryCode": "IN",
+            "division": "Mumbai",
+            "lat": 19.072239,
+            "lng": 72.88053199999999,
+            "placeName": "Netajinagar",
+            "postalCode": "400070",
+            "state": "Maharashtra",
+            "updatedAt": "2022-05-26 08:00:00",
+            "AQI": 70,
+            "aqiInfo": {
+                "pollutant": "PM2.5",
+                "concentration": 20.96,
+                "category": "Moderate"
+            }
+        }
+    ]
+}
